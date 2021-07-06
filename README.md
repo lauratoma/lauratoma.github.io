@@ -1,4 +1,4 @@
 ### lauratoma.github.io
 
 
-I maintain my website at Bowdoin [here] (https://www.bowdoin.edu/~ltoma)
+I maintain my website at Bowdoin (https://www.bowdoin.edu/~ltoma/)
