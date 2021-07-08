@@ -6,5 +6,8 @@ layout: home
 ---
 
 
+bla bla bla 
+
+hello
 
 I maintain my website at Bowdoin here (https://www.bowdoin.edu/~ltoma)
